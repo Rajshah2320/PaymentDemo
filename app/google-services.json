@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "398535935478",
+    "firebase_url": "https://paymentdemo-a3643.firebaseio.com",
+    "project_id": "paymentdemo-a3643",
+    "storage_bucket": "paymentdemo-a3643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398535935478:android:55e219c761dfbfd4b0b3d7",
+        "android_client_info": {
+          "package_name": "com.example.paymentdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398535935478-3b23mu31r6d4f7o2upfnstge5p67clhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paymentdemo",
+            "certificate_hash": "e0865f335ae914433a28493e50aec696343b0878"
+          }
+        },
+        {
+          "client_id": "398535935478-qjj92838r63friqalv7co1q2j5i6et0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtgILYzTtbo04W5b4qwZTryAh9uVb0zf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398535935478-qjj92838r63friqalv7co1q2j5i6et0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
